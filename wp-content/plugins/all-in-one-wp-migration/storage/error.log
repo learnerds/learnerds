@@ -1,0 +1,60 @@
+[Apr 04 2015 00:36:07] ERROR_HANDLER 
+Number:  2
+Message: ftp_delete(): Delete operation failed.
+File:    /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-filesystem-ftpext.php
+Line:    276
+-------------------------------------------- 
+[Apr 04 2015 00:36:07] ERROR_HANDLER 
+Number:  2
+Message: ftp_delete(): Delete operation failed.
+File:    /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-filesystem-ftpext.php
+Line:    276
+-------------------------------------------- 
+[Apr 04 2015 00:36:07] ERROR_HANDLER 
+Number:  2
+Message: ftp_delete(): Delete operation failed.
+File:    /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-filesystem-ftpext.php
+Line:    276
+-------------------------------------------- 
+[Apr 04 2015 00:36:07] ERROR_HANDLER 
+Number:  2
+Message: ftp_rmdir(): Remove directory operation failed.
+File:    /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-filesystem-ftpext.php
+Line:    284
+-------------------------------------------- 
+[Apr 04 2015 00:36:07] ERROR_HANDLER 
+Number:  2
+Message: ftp_delete(): Delete operation failed.
+File:    /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-filesystem-ftpext.php
+Line:    276
+-------------------------------------------- 
+[Apr 04 2015 00:36:07] ERROR_HANDLER 
+Number:  2
+Message: ftp_delete(): Delete operation failed.
+File:    /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-filesystem-ftpext.php
+Line:    276
+-------------------------------------------- 
+[Apr 04 2015 00:36:07] ERROR_HANDLER 
+Number:  2
+Message: ftp_delete(): Delete operation failed.
+File:    /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-filesystem-ftpext.php
+Line:    276
+-------------------------------------------- 
+[Apr 04 2015 00:36:07] ERROR_HANDLER 
+Number:  2
+Message: ftp_rmdir(): Remove directory operation failed.
+File:    /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-filesystem-ftpext.php
+Line:    284
+-------------------------------------------- 
+[Apr 04 2015 00:36:07] ERROR_HANDLER 
+Number:  2
+Message: ftp_rmdir(): Remove directory operation failed.
+File:    /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-filesystem-ftpext.php
+Line:    284
+-------------------------------------------- 
+[Apr 04 2015 00:36:07] ERROR_HANDLER 
+Number:  2
+Message: ftp_rmdir(): Remove directory operation failed.
+File:    /opt/bitnami/apps/wordpress/htdocs/wp-admin/includes/class-wp-filesystem-ftpext.php
+Line:    284
+-------------------------------------------- 
