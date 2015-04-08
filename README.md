@@ -3,3 +3,4 @@ wordpress application
 barfoofoobarbarfoo
 barfoofoobarbarfoo
 barfoofoobarbarfoo
+foobar
