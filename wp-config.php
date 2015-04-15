@@ -42,6 +42,7 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
+/*
 define('AUTH_KEY',         'put your unique phrase here');
 define('SECURE_AUTH_KEY',  'put your unique phrase here');
 define('LOGGED_IN_KEY',    'put your unique phrase here');
@@ -50,6 +51,15 @@ define('AUTH_SALT',        'put your unique phrase here');
 define('SECURE_AUTH_SALT', 'put your unique phrase here');
 define('LOGGED_IN_SALT',   'put your unique phrase here');
 define('NONCE_SALT',       'put your unique phrase here');
+*/
+define('AUTH_KEY', '967a5b760ccfdb6a1e6aa631eb06afe7e796080c672a44d2e551215d86a60a49');
+define('SECURE_AUTH_KEY', '2b9cb4238af893566e4e4ef3b1bcf70164d2a926f1bfae6d3dae0347125a6a6b');
+define('LOGGED_IN_KEY', '78d959b9a13a7fb7a8c540927c89173106078647bf743a104cd33d9973fb8439');
+define('NONCE_KEY', 'c1738538267cd561b0cebc5fdaa6c8e729a9915dcd17645f5b673885ca79970d');
+define('AUTH_SALT', 'bc04c756c46455f8d9d889b5bf2d798bfe98cb69ca32b859a457db09fd96e53b');
+define('SECURE_AUTH_SALT', '1d6f85710e79af3706119b0301c24c807f71577ad838685548d50aeac9ebdf07');
+define('LOGGED_IN_SALT', 'bfd438954ea1c2942fd84013eb326b762b5706632f68fe9ea20c1248f02eb3cd');
+define('NONCE_SALT', '864239b04b0898b0f9110c943dba198f770c099c3ed2e0fcf36612363d9b8f06');
 
 /**#@-*/
 
